@@ -11,8 +11,7 @@ I will create the authentication using Firebase and store the chat images in Fir
 
 By clicking this link you can see the demonstration of the full stack real-time chat website.
 
-Link 👇
-https://drive.google.com/file/d/1DaTTg_E8wPOxg03M1VPbIDha54J_ih75/view?usp=sharing
+Link 👉 https://drive.google.com/file/d/1DaTTg_E8wPOxg03M1VPbIDha54J_ih75/view?usp=sharing 👈
 
 
 ## Installation
@@ -32,7 +31,6 @@ Before running the app, you need to set up Firebase with your own configuration 
 - Go to the firebase.js file in the config folder in the src folder. 
 - Go to the section given in the code below.
 ```bash
-// Your web app's Firebase configuration
 const firebaseConfig = {
   apiKey: "Enter your api key here",
   authDomain: "Enter your auth domain here",
