@@ -58,5 +58,4 @@ npm run dev
 ![image alt](https://github.com/MrTharinduDasantha/Full-Stack-Real-Time-Chat-App/blob/dfb60fd417d424326a8e23f22569556cc62b551c/Img%20-%203.png)
 ![image alt](https://github.com/MrTharinduDasantha/Full-Stack-Real-Time-Chat-App/blob/dfb60fd417d424326a8e23f22569556cc62b551c/Img%20-%204.png)
 
-
-<h4 align="center"> Don't forget to leave a star ⭐️ </h4>
+<h3 align="center"> Don't forget to leave a star ⭐️ </h3>
