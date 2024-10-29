@@ -48,6 +48,7 @@ const firebaseConfig = {
 After setting up Firebase, you can start the development server.
 ```bash
 npm run dev
+```
 
 
 ## Screenshots
