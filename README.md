@@ -18,8 +18,8 @@ Link 👉 https://drive.google.com/file/d/1DaTTg_E8wPOxg03M1VPbIDha54J_ih75/view
 
 #### Clone the repository and install the project dependencies using npm
 ```bash
-  git clone https://github.com/MrTharinduDasantha/Full-Stack-Real-Time-Chat-App.git
-  cd Full-Stack-Real-Time-Chat-App
+  git clone https://github.com/MrTharinduDasantha/Full-Stack-Real-Time-Chat-Website.git
+  cd Full-Stack-Real-Time-Chat-Website
   npm install
 ```
 #### Firebase Configuration
