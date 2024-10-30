@@ -1,8 +1,8 @@
 # Full Stack Real-Time Chat Website
 
-In this project, I will make a Full-stack real-time chat app using React JS and Firebase. 
+In this project, I will make a Full-stack real-time website using React JS and Firebase. 
 
-You can create an account and chat with your friends in this chat app. In the chat, you can also send the images.
+You can create an account and chat with your friends in this chat website. In the chat, you can also send the images.
 
 I will create the authentication using Firebase and store the chat images in Firebase storage. I will store the chat messages on the Firestore Database, which sends the chat messages in real time. 
 
@@ -56,4 +56,4 @@ npm run dev
 ![image alt](https://github.com/MrTharinduDasantha/Full-Stack-Real-Time-Chat-App/blob/dfb60fd417d424326a8e23f22569556cc62b551c/Img%20-%203.png)
 ![image alt](https://github.com/MrTharinduDasantha/Full-Stack-Real-Time-Chat-App/blob/dfb60fd417d424326a8e23f22569556cc62b551c/Img%20-%204.png)
 
-<h3 align="center"> Don't forget to leave a star ⭐️ </h3>
+<h4 align="center"> Don't forget to leave a star ⭐️ </h4>
